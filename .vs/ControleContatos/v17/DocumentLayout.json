@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\helper\\isessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\helper\\isessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\viewcomponents\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\dadan\\source\\repos\\controlecontatos\\controlecontatos\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ViewComponents\\Menu.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\ViewComponents\\Menu.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ViewComponents\\Menu.cs",
+              "RelativeToolTip": "ControleContatos\\ViewComponents\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:52:48.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T01:45:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Helper\\Sessao.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Helper\\Sessao.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Helper\\Sessao.cs",
+              "RelativeToolTip": "ControleContatos\\Helper\\Sessao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:11:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISessao.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Helper\\ISessao.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Helper\\ISessao.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Helper\\ISessao.cs",
+              "RelativeToolTip": "ControleContatos\\Helper\\ISessao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:10:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ControleContatos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:46:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\Contato.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Controllers\\Contato.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\Contato.cs",
+              "RelativeToolTip": "ControleContatos\\Controllers\\Contato.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:42:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\ContatoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:28:20.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T00:27:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutDeslogado.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T00:27:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:04:47.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Data\\BancoContext.cs",
+              "RelativeToolTip": "ControleContatos\\Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:02:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:02:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:02:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "ControleContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T00:00:51.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T23:02:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:59:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "ControleContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:43:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:38:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:38:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ControleContatos\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:35:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:34:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T22:34:48.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Program.cs",
+              "RelativeToolTip": "ControleContatos\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:32:43.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ControleContatos\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T22:32:29.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

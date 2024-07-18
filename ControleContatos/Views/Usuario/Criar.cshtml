@@ -1,0 +1,47 @@
+﻿@using ControleContatos.Enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Criar usuario";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cadastrar usuario</h1>
+    <form asp-controller="Usuario" asp-action="Criar" method="post">
+        <div class="mb-3">
+            <label for="nome">Nome</label>
+            <input type="text" class="form-control" placeholder="Digite o nome" asp-for="Nome">
+            @Html.ValidationMessageFor(x => x.Nome)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="email">Email</label>
+            <input type="text" class="form-control" placeholder="Digite o email" asp-for="Email">
+            @Html.ValidationMessageFor(x => x.Email)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="login">Login</label>
+            <input type="text" class="form-control" placeholder="Digite o login" asp-for="Login">
+            @Html.ValidationMessageFor(x => x.Login)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="perfil">Perfil</label>
+            <select asp-for="Perfil" class="form-control">
+    <option value="">Selecione</option>
+    <option value="@PerfilEnum.Admin">Adm</option>
+    <option value="@PerfilEnum.Padrao">Padrao</option>
+</select>
+            @Html.ValidationMessageFor(x => x.Perfil)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="senha">Senha</label>
+            <input type="password" class="form-control" placeholder="Digite a senha" asp-for="Senha">
+            @Html.ValidationMessageFor(x => x.Senha)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Adicionar</button>
+        <a class="btn btn-secondary btn-block" asp-controller="Usuario" asp-action="Index" role="button">Voltar</a>
+    </form>
+</div>

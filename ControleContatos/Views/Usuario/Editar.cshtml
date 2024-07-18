@@ -1,0 +1,43 @@
+﻿@model UsuarioModel
+@{
+    ViewData["Title"] = "Editar usuario";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Editar usuario</h1>
+
+
+
+    <form asp-controller="Usuario" asp-action="Editar" method="post">
+        <div class="mb-3">
+            <label for="nome">Nome</label>
+            <input type="text" class="form-control" placeholder="@Model.Nome" asp-for="Nome">
+            @Html.ValidationMessageFor(x => x.Nome)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="email">Email</label>
+            <input type="text" class="form-control" placeholder="@Model.Email" asp-for="Email">
+            @Html.ValidationMessageFor(x => x.Email)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="celular">Login</label>
+            <input type="text" class="form-control" placeholder="@Model.Login" asp-for="Login">
+            @Html.ValidationMessageFor(x => x.Login)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="celular">Senha</label>
+            <input type="text" class="form-control" placeholder="@Model.Senha" asp-for="Senha">
+            @Html.ValidationMessageFor(x => x.Senha)
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+
+
+        <button type="submit" class="btn btn-primary btn-block">Alterar</button>
+        <a class="btn btn-secondary btn-block" asp-controller="Usuario" asp-action="Index" role="button">Voltar</a>
+    </form>
+</div>
+
+

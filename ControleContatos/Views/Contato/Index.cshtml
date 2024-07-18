@@ -1,0 +1,66 @@
+﻿@model List<ContatoModel>
+@{
+    ViewData["Title"] = "Listagem de contatos";
+}
+
+
+@if(TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="close">x</button>
+        @TempData["MensagemSucesso"]
+    </div>
+}
+@if(TempData["MensagemErro"] != null) 
+{
+<div class="alert alert-danger" role="alert">
+    <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="close">x</button>
+    @TempData["MensagemErro"]
+</div>
+}
+<div class="text-center">
+
+<div class="d-grip gap-2 d-md-flex justify-content-md-start">
+    <a class="btn btn-primary" role="button" asp-action="Criar" asp-asp-controller="Contato">Adicionar novo contato</a>
+</div>
+
+<br/>
+
+<h1 class="display-4">Listagem de contatos</h1>
+
+
+<table class="table" id="table-contatos">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Email</th>
+            <th scope="col">Celular</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var contato in Model)
+                {
+                    <tr>
+                        <th scope="row">@contato.Id</th>
+                        <td>@contato.Nome</td>
+                        <td>@contato.Email</td>
+                        <td>@contato.Celular</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a role="button" class="btn btn-info" asp-route-id="@contato.Id" asp-action="Editar" asp-asp-controller="Contato">Editar</a>
+                                <a role="button" class="btn btn-danger" asp-route-id="@contato.Id" asp-action="ApagarConfirmacao" asp-asp-controller="Contato">Apagar</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+
+    </tbody>
+</table>
+</div>
+
+
