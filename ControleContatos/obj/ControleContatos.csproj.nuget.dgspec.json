@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ControleContatos.csproj": {}
+    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ControleContatos.csproj": {
+    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ControleContatos.csproj",
+        "projectUniqueName": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
         "projectName": "ControleContatos",
-        "projectPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ControleContatos.csproj",
+        "projectPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
         "packagesPath": "C:\\Users\\dadan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\obj\\",
+        "outputPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dadan\\AppData\\Roaming\\NuGet\\NuGet.Config",

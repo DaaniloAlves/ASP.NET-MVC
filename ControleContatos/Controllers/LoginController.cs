@@ -1,4 +1,5 @@
-﻿using ControleContatos.Helper;
+﻿using ControleContatos.Filters;
+using ControleContatos.Helper;
 using ControleContatos.Models;
 using ControleContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;

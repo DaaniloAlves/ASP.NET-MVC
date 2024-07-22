@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qy6cND7pYuk=",
+  "dgSpecHash": "9wW7hbk5wBY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ControleContatos\\ControleContatos.csproj",
+  "projectFilePath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dadan\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\dadan\\.nuget\\packages\\azure.identity\\1.12.0\\azure.identity.1.12.0.nupkg.sha512",
