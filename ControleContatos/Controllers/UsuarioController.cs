@@ -61,6 +61,7 @@ namespace ControleContatos.Controllers
                     TempData["MensagemSucesso"] = "Deu tudo certo!";
                     return RedirectToAction("Index");
                 }
+                TempData["MensagemErro"] = "ModelState falso";
                 return View(usuario);
             }
                 

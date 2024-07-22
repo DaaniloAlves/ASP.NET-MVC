@@ -1,9 +1,24 @@
 ﻿@model UsuarioModel
 @{
     ViewData["Title"] = "Editar usuario";
+
+    var data = DateTime.Now;
 }
 
+
+
 <div class="text-center">
+
+    @if (TempData["MensagemErro"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="close">x</button>
+            @TempData["MensagemErro"]
+        </div>
+    }
+
+
+
     <h1 class="display-4">Editar usuario</h1>
 
 
@@ -29,10 +44,15 @@
         </div>
         <div class="mb-3">
             <label for="celular">Senha</label>
-            <input type="text" class="form-control" placeholder="@Model.Senha" asp-for="Senha">
+            <input type="password" class="form-control" placeholder="@Model.Senha" asp-for="Senha">
             @Html.ValidationMessageFor(x => x.Senha)
             <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
         </div>
+
+        <input type="hidden" value="@Model.Id" asp-for="Id">
+        <input type="hidden" value="@data" asp-for="DataAtualizacao">
+        <input type="hidden" value="@Model.Perfil" asp-for="Perfil">
+        <input type="hidden" value="@Model.DataCadastro" asp-for="DataCadastro">
 
 
         <button type="submit" class="btn btn-primary btn-block">Alterar</button>

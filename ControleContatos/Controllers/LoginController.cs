@@ -37,7 +37,7 @@ namespace ControleContatos.Controllers
                 { 
                     UsuarioModel usuario = _usuarioRepositorio.BuscarPorLogin(login.Usuario);
                     if (usuario != null)
-                    { 
+                    {
                         if (usuario.SenhaValida(login.Senha))
                         {
                             _sessao.CriarSessaoUsuario(usuario);

@@ -13,6 +13,7 @@ namespace ControleContatos.Repositorio
         public UsuarioModel Adicionar(UsuarioModel usuario)
         {                 
             usuario.DataCadastro = DateTime.Now;
+            usuario.setSenhaHash();
             _bancoContext.Usuario.Add(usuario);
             _bancoContext.SaveChanges();
             return usuario;
@@ -44,6 +45,7 @@ namespace ControleContatos.Repositorio
             usuarioDB.Senha = usuario.Senha;
             usuarioDB.Email = usuario.Email;
             usuarioDB.Login = usuario.Login;
+            usuarioDB.setSenhaHash();
             _bancoContext.Usuario.Update(usuarioDB);
             _bancoContext.SaveChanges();
             return usuarioDB;

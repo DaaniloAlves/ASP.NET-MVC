@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {}
+    "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {
+    "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
+        "projectUniqueName": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
         "projectName": "ControleContatos",
-        "projectPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
-        "packagesPath": "C:\\Users\\dadan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dadan\\source\\repos\\ControleContatos\\ASP.NET-MVC\\ControleContatos\\obj\\",
+        "projectPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\ControleContatos.csproj",
+        "packagesPath": "C:\\Users\\daguimaraes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dadan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daguimaraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,6 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://nuget.tjsp.jus.br:8080/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
