@@ -10,6 +10,7 @@ namespace ControleContatos.Repositorio
         UsuarioModel Editar(UsuarioModel usuario);
         bool Apagar(int id);
         UsuarioModel ListarPorId(int id);
+        public UsuarioModel BuscarPorLoginEEmail(string login, string senha);
 
     }
 }

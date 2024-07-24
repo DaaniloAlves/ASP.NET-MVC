@@ -58,6 +58,40 @@ namespace ControleContatos.Controllers
             }
         }
 
+        public IActionResult LinkRedefinirSenha()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult LinkRedefinirSenha(RedefinirSenhaModel usuario)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    UsuarioModel usuarioNovo = _usuarioRepositorio.BuscarPorLoginEEmail(usuario.Login, usuario.Email);
+                    if (usuarioNovo != null)
+                    {
+                        usuarioNovo.GerarNovaSenha();
+                        _usuarioRepositorio.Editar(usuarioNovo);
+                        TempData["MensagemSucesso"] = "Login verificado com sucesso! Verifique seu email para visualizar a nova senha";
+                        return RedirectToAction("Index", "Login");
+                    }
+                    return RedirectToAction("Index", "Login");
+                }
+                TempData["MensagemErro"] = $"Usuario não encontrado, usuario invalido";
+                return View("Index");
+            }
+
+            catch (Exception erro)
+            {
+                TempData["MensagemErro"] = $"Usuario não encontrado, erro: {erro.Message}";
+                return RedirectToAction("Index");
+            }
+        }
+
         public IActionResult Deslogar()
         {
             _sessao.RemoverSessaoUsuario();

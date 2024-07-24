@@ -32,6 +32,12 @@ namespace ControleContatos.Repositorio
             return _bancoContext.Usuario.FirstOrDefault(x => x.Login.ToLower() == login.ToLower());
         }
 
+        public UsuarioModel BuscarPorLoginEEmail(string login, string email)
+        {
+            UsuarioModel usuarioEncontrado = _bancoContext.Usuario.FirstOrDefault(x => x.Login.ToUpper() == login.ToUpper() && x.Email.ToUpper() == email.ToUpper());
+            return usuarioEncontrado;
+        }
+
         public List<UsuarioModel> BuscarTodos()
         {
             return _bancoContext.Usuario.ToList();
