@@ -5,8 +5,6 @@
     var data = DateTime.Now;
 }
 
-
-
 <div class="text-center">
 
     @if (TempData["MensagemErro"] != null)
@@ -17,18 +15,13 @@
         </div>
     }
 
-
-
     <h1 class="display-4">Editar usuario</h1>
-
-
-
     <form asp-controller="Usuario" asp-action="Editar" method="post">
         <div class="mb-3">
             <label for="nome">Nome</label>
             <input type="text" class="form-control" placeholder="@Model.Nome" asp-for="Nome">
             @Html.ValidationMessageFor(x => x.Nome)
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            <div id="emailHelp" class="form-text">We'll never share your name with anyone else.</div>
         </div>
         <div class="mb-3">
             <label for="email">Email</label>
@@ -40,13 +33,13 @@
             <label for="celular">Login</label>
             <input type="text" class="form-control" placeholder="@Model.Login" asp-for="Login">
             @Html.ValidationMessageFor(x => x.Login)
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            <div id="emailHelp" class="form-text">We'll never share your login with anyone else.</div>
         </div>
         <div class="mb-3">
             <label for="celular">Senha</label>
-            <input type="password" class="form-control" placeholder="@Model.Senha" asp-for="Senha">
+            <input type="password" class="form-control" placeholder="Digite a nova senha" asp-for="Senha">
             @Html.ValidationMessageFor(x => x.Senha)
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            <div id="emailHelp" class="form-text">We'll never share your senha with anyone else.</div>
         </div>
 
         <input type="hidden" value="@Model.Id" asp-for="Id">

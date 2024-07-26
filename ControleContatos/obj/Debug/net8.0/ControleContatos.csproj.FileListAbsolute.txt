@@ -405,9 +405,9 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\scopedcss\bundle\ControleContatos.styles.css
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\scopedcss\projectbundle\ControleContatos.bundle.scp.css
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\Controle.36340B36.Up2Date
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\ControleContatos.dll
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\refint\ControleContatos.dll
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\ControleContatos.pdb
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\ControleContatos.genruntimeconfig.cache
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\ref\ControleContatos.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\Curso mvc\ASP.NET-MVC\ASP.NET-MVC\ControleContatos\obj\Debug\net8.0\Controle.36340B36.Up2Date

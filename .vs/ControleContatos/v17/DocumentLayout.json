@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\models\\redefinirsenhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\redefinirsenhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\login\\linkredefinirsenha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,32 +51,16 @@
       "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\models\\redefinirsenhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\redefinirsenhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\curso mvc\\asp.net-mvc\\asp.net-mvc\\controlecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{164E3C72-7368-4612-A8C2-EB9DC9DAB7CD}|ControleContatos\\ControleContatos.csproj|solutionrelative:controlecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +70,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:59:25.334Z",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ControleContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ControleContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-26T21:38:09.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T21:37:44.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:23:25.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:48:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UsuarioModel.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Models\\UsuarioModel.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Models\\UsuarioModel.cs",
               "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Models\\UsuarioModel.cs",
               "RelativeToolTip": "ControleContatos\\Models\\UsuarioModel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wCMAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:59:08.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:59:08.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RedefinirSenhaModel.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Models\\RedefinirSenhaModel.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Models\\RedefinirSenhaModel.cs",
@@ -88,12 +144,11 @@
               "RelativeToolTip": "ControleContatos\\Models\\RedefinirSenhaModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T20:52:30.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:52:30.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ContatoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\ContatoRepositorio.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\ContatoRepositorio.cs",
@@ -101,12 +156,11 @@
               "RelativeToolTip": "ControleContatos\\Repositorio\\ContatoRepositorio.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:23:13.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T21:23:13.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "LinkRedefinirSenha.cshtml",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Login\\LinkRedefinirSenha.cshtml",
               "RelativeDocumentMoniker": "ControleContatos\\Views\\Login\\LinkRedefinirSenha.cshtml",
@@ -114,21 +168,57 @@
               "RelativeToolTip": "ControleContatos\\Views\\Login\\LinkRedefinirSenha.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T20:52:01.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T20:52:01.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Controllers\\LoginController.cs",
               "RelativeToolTip": "ControleContatos\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAiwEYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T20:09:38.729Z",
+              "WhenOpened": "2024-07-21T20:09:38.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T20:49:08.224Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:28:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ControleContatos\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:59:25.334Z"
             },
             {
               "$type": "Document",
@@ -144,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "IContatoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\IContatoRepositorio.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\IContatoRepositorio.cs",
@@ -156,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "IUsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "ControleContatos\\Repositorio\\IUsuarioRepositorio.cs",
@@ -165,18 +255,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T21:09:10.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControleContatos\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\Curso mvc\\ASP.NET-MVC\\ASP.NET-MVC\\ControleContatos\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "ControleContatos\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T20:49:08.224Z"
             }
           ]
         }
